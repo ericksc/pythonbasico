@@ -1,6 +1,6 @@
 
 var = 1.123456789
-mi_redondeo = round(var2 := var + 1, 2)
+mi_redondeo = round(var2 := var + 1.5, 2)
 
 print(var)
 print(mi_redondeo)

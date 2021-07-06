@@ -1,0 +1,3 @@
+carlos,perez,50,1213213
+maria,alfaro,50,313151
+luis,perez,10,-9319313
