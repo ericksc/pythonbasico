@@ -1,0 +1,4 @@
+carlos,perez,50,dolor|hambre|suenno,acetaminofen|comida|dormir
+maria,alfaro,50,hambre|dolor|frio,comida|acetaminofen|cafe
+luis,perez,10,calor|sed,fresco|agua
+juan,perez,20,sed,agua
